@@ -14,3 +14,7 @@ https://github.com/planningcenter/react-patterns
 
 ES6 (es2015) : <br>
 https://github.com/DrkSephy/es6-cheatsheet
+
+<br>
+Book and code example : <br>
+https://github.com/PacktPublishing/React-Design-Patterns-and-Best-Practices
